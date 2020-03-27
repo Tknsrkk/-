@@ -1,6 +1,6 @@
 # nslookup
 
-![imgae](https://ftp.bmp.ovh/imgs/2020/03/a353a543741d3b23.png)
+![GCMj3t.png](https://s1.ax1x.com/2020/03/27/GCMj3t.png)
 
 # exercise
 
