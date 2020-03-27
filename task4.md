@@ -1,6 +1,6 @@
 # nslookup
 
-[![GCMj3t.th.png](https://s1.ax1x.com/2020/03/27/GCMj3t.th.png)](https://imgchr.com/i/GCMj3t)
+![GCMj3t.png](https://s1.ax1x.com/2020/03/27/GCMj3t.png)
 
 # exercise
 
