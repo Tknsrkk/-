@@ -1,6 +1,6 @@
 # nslookup
 
-![](https://gitee.com/fforkboat/fforkboat-pic-repo/raw/master//pic/Snipaste_2020-03-21_16-27-11.jpg)
+![](https://ftp.bmp.ovh/imgs/2020/03/a353a543741d3b23.png)
 
 # exercise
 
