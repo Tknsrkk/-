@@ -1,6 +1,6 @@
 # nslookup
 
-![](https://ftp.bmp.ovh/imgs/2020/03/a353a543741d3b23.png)
+![imgae](https://ftp.bmp.ovh/imgs/2020/03/a353a543741d3b23.png)
 
 # exercise
 
