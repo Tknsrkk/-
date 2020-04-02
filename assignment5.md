@@ -1,5 +1,5 @@
 # ump
 
-[https://github.com/Tknsrkk/dis-network/blob/master/checksum.py]
+https://github.com/Tknsrkk/dis-network/blob/master/checksum.py
 
 # p1
