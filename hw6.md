@@ -24,3 +24,8 @@ j.threshold:21
 cwnd size:1  
 
 k.1+2+4+8+16+21=52 packets
+
+# P44
+
+(a) Because cwnd increases 1 MSS for each RTT, so we need 6 RTTs.
+(b) S = 6 + 7 + 8 + 9 + 10 + 11 = 51MSS. 51/6 = 8.5 MSS/RTT
