@@ -1,7 +1,9 @@
 P2
 
 (a) No, only one data packet can be sent on the shared bus at a time.
+
 (b) No, only one memory read or write can be performed at a time.
+
 (c) No, in this case, the two data packets must be sent on the same output bus.
 
 P3
